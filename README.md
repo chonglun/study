@@ -1,3 +1,2 @@
-
 ###Location###
--[Ekahau RTLS](,/ekahau_rtls.md)
+-[Ekahau RTLS](../../ekahau_rtls.md)
